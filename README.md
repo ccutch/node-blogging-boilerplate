@@ -39,7 +39,8 @@ Article = {
   fileLocation: String,
   save: Function,
   load: Function,
-  delete: Function
+  delete: Function,
+  toString: Function
 }
 ```
 
