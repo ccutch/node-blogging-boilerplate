@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Simple Launchboard for a blogging service.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Connor McCutcheon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mkdirp": "^0.5.1",
+    "multer": "^1.0.3",
+    "node-uuid": "^1.4.3"
+  }
+}
